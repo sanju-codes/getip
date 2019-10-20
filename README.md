@@ -1,6 +1,5 @@
 # Get-ip v1.1 (ARM Support)
-## Author: github.com/thelinuxchoice
-## IG: instagram.com/thelinuxchoice
+## Author: Sanju Pappachan
  
 Get ip of target through nkrog link
 
@@ -8,7 +7,7 @@ Get ip of target through nkrog link
 
 ### Usage:
 ```
-git clone https://github.com/thelinuxchoice/getip
+git clone https://github.com/Sanju8943/getip
 cd getip
 sudo bash getip.sh
 ```

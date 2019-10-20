@@ -1,7 +1,7 @@
 #!/bin/bash
 # Get-IP v1.1
-# Coded by: thelinuxchoice
-# Github: https://github.com/thelinuxchoice/getip
+# Coded by: SANJU PAPPACHAN
+# Github: https://github.com/Sanju8943/getip
 trap 'printf "\n";stop;exit 1' 2
 
 dependencies() {
